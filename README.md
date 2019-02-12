@@ -1,5 +1,5 @@
 # simple-factory-method
-it's an example for system in game based on abstract factory method
+it's an example for system in game based on simple factory method
 
 # it used for :
 1- reuseabilty
